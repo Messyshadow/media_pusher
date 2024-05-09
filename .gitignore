@@ -1,0 +1,20 @@
+# Prerequisites
+*.d
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+# Precompiled Headers
+*.gch
+*.pch
+# Compiled Static libraries
+*.lai
+*.la
+
+lib/
+out
+debug
+Debug
+build
+*.user
